@@ -33,6 +33,12 @@ Sparsh Jain
 - Created 12 deep learning models and 20+ AI projects
 - Developing an RNN for Cardioalert
 
+## Projects
+- **Bhoomi** – IoT and AI-based soil analysis system recommending crops and fertilizers
+- **Soil Smart** – Raspberry Pi soil analyzer predicting optimal fertilizer dosage
+- **Neuroshield** – Smart helmet locking two-wheelers until worn
+- **Predict-A-Quake** – AI-driven earthquake prediction tool
+
 ## Achievements
 - **National Automation Robotics Challenge 2024** – 1st place for soil moisture-based irrigation system, ₹7,500 prize
 - **IEEE REPower 2024** – 3rd place with idea Bhoomi
