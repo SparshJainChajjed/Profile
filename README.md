@@ -4,10 +4,34 @@
 Sparsh Jain
 
 ## Skills
-- **Boards**: Arduino (5+ yrs), ESP32 (5+ yrs), STM32, LEGO Mindstorms 51515 (3 yrs), Raspberry Pi (2+ yrs), PCB design (1+ yr)
-- **Languages**: C++ (5+ yrs), HTML (3+ yrs), Python (3+ yrs), 3D modeling (3+ yrs), JavaScript (5 mos), learning Assembly
-- **3D Modelling Tools**: Blender (2 yrs), Tinkercad (3 yrs), Anycubic Slicer (1 yr), Orca Slicer (5 mos), Prusa Slicer (1+ yr)
-- **AI model training**: Google Colab (2+ yrs), built 12 deep learning models and 20+ AI projects, including an RNN for Cardioalert
+
+### Boards
+- Arduino (5+ yrs)
+- ESP32 (5+ yrs)
+- STM32 (ongoing projects)
+- LEGO Mindstorms 51515 (3 yrs)
+- Raspberry Pi (2+ yrs)
+- PCB design (1+ yr)
+
+### Languages
+- C++ (5+ yrs)
+- HTML (3+ yrs)
+- Python (3+ yrs)
+- JavaScript (5 mos)
+- 3D modeling (3+ yrs)
+- Currently learning Assembly
+
+### 3D Modelling & Slicing Tools
+- Blender (2 yrs)
+- Tinkercad (3 yrs)
+- Anycubic Slicer (1 yr)
+- Orca Slicer (5 mos)
+- Prusa Slicer (1+ yr)
+
+### AI Model Training
+- Google Colab (2+ yrs)
+- Created 12 deep learning models and 20+ AI projects
+- Developing an RNN for Cardioalert
 
 ## Achievements
 - **National Automation Robotics Challenge 2024** – 1st place for soil moisture-based irrigation system
