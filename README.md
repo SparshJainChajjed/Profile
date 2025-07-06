@@ -38,11 +38,7 @@ Hi my name is Sparsh Jain, I am a 14 year old studying in DPS bangalore south, I
 - **S.A.I. (Smart Agricultural Irrigation)** – Soil-moisture sensor mesh + weather forecasting on Raspberry Pi to irrigate only when conditions warrant.  
 - **SafeSteps** – Smart safety shoes; SOS Morse-code tap sends GPS-tagged SMS alert to police, enabling discreet emergency help.  
 
-## Achievements  
-- **Byte Bash 2025** – 1st place for NeuroShield  
-- **CodePie 2025** – 2nd place S.A.I. (hackathon); 2nd place SafeSteps (ideathon); NeuroShield top 10 (ideathon); Bhoomi top 20 (hackathon) – prizes worth over ₹50000  
-- **HackNexus** – Top-three prize, worth ₹30000  
-- **HAP 2025** – 2nd place for CardioAlert  
+## Achievements 
 - **National Automation Robotics Challenge 2024** – 1st place for soil-moisture irrigation system, ₹8000 prize  
 - **IEEE REPower 2024** – 3rd place with Bhoomi  
 - **Innovate H2O 2024** – Winner, AI-powered irrigation, ₹10000 funding  
@@ -57,4 +53,8 @@ Hi my name is Sparsh Jain, I am a 14 year old studying in DPS bangalore south, I
 - **Fabguard Innovation Challenge** – Winner, ₹5000 
 - **Intel AI Fest** – Completed AI for Entrepreneurship module  
 - **Raman Awards 2024** – National qualifier for NeuroShield  
-- **Mega Hackathon 2025** – Sustainability Award for Bhoomi, prizes over ₹10000 
+- **Mega Hackathon 2025** – Sustainability Award for Bhoomi, prizes over ₹10000
+- **Byte Bash 2025** – 1st place for NeuroShield  
+- **CodePie 2025** – 2nd place S.A.I. (hackathon); 2nd place SafeSteps (ideathon); NeuroShield top 10 (ideathon); Bhoomi top 20 (hackathon) – prizes worth over ₹50000  
+- **HackNexus** – Top-three prize, worth ₹30000  
+- **HACK 2025** – 2nd place for CardioAlert  
